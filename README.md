@@ -6,10 +6,10 @@ disminución en los sms [telefonia movil]
 disminución en la telefonia fija [telefonía fija]
 contraste entre minutos hablados en red fija y minutos hablados en celular [telefonía movil vs telefonía fija]
 tendencia de tv satelital y por suscripcion [television]
-tendencia accesos por tecnología [Internet]
-tendencia de penetracion-poblacion por ciudad [Internet]
-crecimiento de ingresos [Internet]
+tendencia accesos por tecnología [Internet] *
+tendencia de penetracion-poblacion por ciudad [Internet]*
 Tendencia de la velocidad por ciudad[Internet]
+Medicion de velocidad[Internet]
 
 KPIs
 

@@ -1,3 +1,4 @@
 install-pyenv-win.ps1
 .python-version
 Instrucciones.md
+.vscode
