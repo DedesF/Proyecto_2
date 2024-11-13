@@ -1,15 +1,12 @@
 # Proyecto_2
 
-mapa de los sectores y distribución de los servicios por ciudad o provincia [mapa de conectividad]
-disminución de la ventas postales [servicios postales]
-disminución en los sms [telefonia movil]
-disminución en la telefonia fija [telefonía fija]
-contraste entre minutos hablados en red fija y minutos hablados en celular [telefonía movil vs telefonía fija]
-tendencia de tv satelital y por suscripcion [television]
-tendencia accesos por tecnología [Internet] *
-tendencia de penetracion-poblacion por ciudad [Internet]*
-Tendencia de la velocidad por ciudad[Internet]
-Medicion de velocidad[Internet]
+mapa de los sectores y distribución de los servicios por ciudad o provincia [mapa de conectividad] (para powerbi)
+disminución en la telefonia fija [telefonía fija]*
+contraste entre minutos hablados en red fija y minutos hablados en celular [telefonía movil vs telefonía fija]*
+tendencia accesos por tecnología [Internet] * año, trimestre, provincia
+tendencia de penetracion-poblacion por ciudad [Internet]* año, trimestre, provincia
+Tendencia de la velocidad por ciudad[Internet]* año, trimestre, provincia
+Medicion de velocidad[Internet]*
 
 KPIs
 
