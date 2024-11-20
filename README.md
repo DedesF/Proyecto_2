@@ -40,7 +40,7 @@ KPI GT = (GT periodo actual - GT periodo nuevo)/periodo actual * 100
 
 El KPI propuesto será de 3%, vale decir que se espera como meta que los accesos más rápidos a internet crezcan en razón del 3%
 
-### KPI Grade up technology
+### KPI Incremento de velocidad media de internet
 
 KPI IV (Incremento en velocidad media) medirá el aumento de la velocidad de internet por provincia
 
