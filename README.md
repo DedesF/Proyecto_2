@@ -53,27 +53,19 @@ KPI IV = (IV periodo actual - IV periodo nuevo)/periodo actual * 100
 El KPI propuesto será de 3%, vale decir que se espera como meta que la velocidad a internet crezcan en razón del 3%
 
 ## Conclusiones
-### Crecimiento de la fibra óptica:
-La fibra óptica está creciendo rápidamente y es la segunda tecnología más utilizada después del cable modem. Esto muestra una tendencia hacia conexiones más rápidas y confiables. Por el contrario la tecnología de ADSL que se caracteriza por ser más lenta viene en declive
+La fibra óptica está creciendo rápidamente y es la segunda tecnología más utilizada después del cable modem. Esto muestra una tendencia hacia conexiones más rápidas y confiables. Por el contrario la tecnología de ADSL que se caracteriza por ser más lenta viene en declive.
 
-### Desigualdad en conectividad:
-Las provincias urbanas tienen mayor acceso y velocidades superiores, mientras que las zonas rurales enfrentan grandes brechas respecto a la tecnología.
+Las provincias urbanas tienen mayor acceso y velocidades, ya que deben liderar en infraestructura, mientras que las zonas rurales enfrentan grandes brechas respecto a la tecnología.
 
-### Impacto de la infraestructura:
-Las provincias con mejor infraestructura, como Capital Federal y Buenos Aires, lideran en penetración y velocidad de descarga.
+Existe un liderazgo absoluto de la telefonía móvil respecto a la telefonía fija que ha venido en declive a través de los años.
+La TV por suscripción acapara las preferencias en los hogares argentinos.
 
-### Distribución de accesos telefónicos
-Existe un liderazgo absoluto de la telefonía móvil respecto a la telefonía fija que ha venido en declive
-
-### Accesos a televisión
-La TV por suscripción acapara las preferencias en los hogares argentinos
 
 ## Recomendaciones
-- Inversiones dirigidas a la fibra óptica:
-Ampliar la infraestructura de fibra en regiones rurales para mejorar la conectividad y cerrar la brecha digital.
+En las zonas más pobladas es necesario entrar a competir con tecnología de punta como fibra óptica o cable módem, ya que la competencia es mayor que en zonas menos pobladas.
 
-- Desarrollo de tecnologías inalámbricas:
-Considerar el uso de tecnologías wireless para áreas remotas donde la fibra óptica es poco rentable.
+Ampliar la infraestructura de fibra óptica en regiones más rurales para mejorar la conectividad y comenzar a provocar cierre de la brecha digital.
 
-- Promociones tipo packs:
-Aplicar packs de promociones internet-tv satelital en zonas más rurales, ya que ambos servicios son complementarios a través de antenas satelitales
+Sí la fibra óptica es poco rentable considerar el uso de tecnologías de cable módem o wireless para las áreas más remotas o con pocos habitantes.
+
+Aplicar packs de promociones internet, tv satelital y telefonía fija, ya que son servicios que pueden ser brindados a través de antenas satelitales.
